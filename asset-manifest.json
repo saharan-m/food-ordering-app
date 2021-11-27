@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/saharan-m/food-ordering-app/static/css/main.5fbbf11b.chunk.css",
+    "main.js": "/saharan-m/food-ordering-app/static/js/main.b456c030.chunk.js",
+    "main.js.map": "/saharan-m/food-ordering-app/static/js/main.b456c030.chunk.js.map",
+    "runtime-main.js": "/saharan-m/food-ordering-app/static/js/runtime-main.c9f3b8b8.js",
+    "runtime-main.js.map": "/saharan-m/food-ordering-app/static/js/runtime-main.c9f3b8b8.js.map",
+    "static/js/2.77c03b7c.chunk.js": "/saharan-m/food-ordering-app/static/js/2.77c03b7c.chunk.js",
+    "static/js/2.77c03b7c.chunk.js.map": "/saharan-m/food-ordering-app/static/js/2.77c03b7c.chunk.js.map",
+    "index.html": "/saharan-m/food-ordering-app/index.html",
+    "static/css/main.5fbbf11b.chunk.css.map": "/saharan-m/food-ordering-app/static/css/main.5fbbf11b.chunk.css.map",
+    "static/js/2.77c03b7c.chunk.js.LICENSE.txt": "/saharan-m/food-ordering-app/static/js/2.77c03b7c.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/saharan-m/food-ordering-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f3b8b8.js",
+    "static/js/2.77c03b7c.chunk.js",
+    "static/css/main.5fbbf11b.chunk.css",
+    "static/js/main.b456c030.chunk.js"
+  ]
+}
